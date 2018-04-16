@@ -1,6 +1,6 @@
 # selenium
 
-*Technologies used: Node, Mocha and selenium-webdriver*
+*Technologies used: Node, mocha and selenium-webdriver*
 
 ## Test results (tests can be found in test.js)
 
