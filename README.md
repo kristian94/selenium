@@ -1,5 +1,10 @@
 # selenium
 
+*Technologies used: Node, Mocha and selenium-webdriver*
+
+## Test results (mocha)
+
+![](https://github.com/kristian94/selenium/blob/master/results/test%20results.PNG)
 
 #### Manual Vs. Automated Testing
 
