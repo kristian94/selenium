@@ -2,7 +2,7 @@
 
 *Technologies used: Node, Mocha and selenium-webdriver*
 
-## Test results (mocha)
+## Test results (tests can be found in test.js)
 
 ![](https://github.com/kristian94/selenium/blob/master/results/test%20results.PNG)
 
